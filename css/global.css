@@ -1,0 +1,33 @@
+.btn {
+    border-radius: 34px;
+    min-width: 263px;
+    text-align: center;
+    font-size: 1.25rem;
+    line-height: 13px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    padding: 1.3rem 0.75rem;
+}
+.btn.primary {
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
+  }
+  .btn.secondary {
+    background-color: transparent;
+    border-color: #000;
+    color: #000;
+  }
+h1, h2 {
+    font-family: 'IBM Plex Serif', serif;
+}
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 100%;
+    color: #000;
+    scroll-behavior: smooth;
+}
+img {
+    max-width: 100%;
+}
+
